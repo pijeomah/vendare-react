@@ -4,69 +4,69 @@
       "name": "The Declaration Of Independence",
       "price": 10.99,
       "imgUrl": "/imgs/DOI.jpeg",
-      "Author": "The Founding Fathers"
+      "author": "The Founding Fathers"
     },
     {
       "id": 2,
       "name": "Shakespeare's First Folio",
       "price": 1199,
       "imgUrl": "/imgs/SFF.jpeg",
-      "Author": "William Shakespeare"
+      "author": "William Shakespeare"
     },
     {
       "id": 3,
       "name": "The Gutenberg Bible",
-      "price": 14000,
+      "price": 1400,
       "imgUrl": "/imgs/TGB.jpg",
-      "Author": "Johannes Gutenberg"
+      "author": "Johannes Gutenberg"
     },
     {
       "id": 4,
       "name": "The Birds Of America",
       "price": 1.05,
       "imgUrl": "/imgs/RBOA.jpeg",
-      "Author": "John Audubon"
+      "author": "John Audubon"
     },
     {
         "id": 1,
         "name": "The Codex of Leicester",
         "price": 10.99,
         "imgUrl": "/imgs/COL.jpg",
-        "Author": "Leonardo da Vinci"
+        "author": "Leonardo da Vinci"
       },
       {
         "id": 2,
         "name": "Don Quixote de la Mancha",
         "price": 1199,
         "imgUrl": "/imgs/DQ.jpeg",
-        "Author": "Miguel de Cervantes"
+        "author": "Miguel de Cervantes"
       },
       {
         "id": 3,
         "name": "Tamerlane and other Poems",
         "price": 14000,
         "imgUrl": "/imgs/TOP.jpeg",
-        "Author": "Edgar Allen Poe"
+        "author": "Edgar Allen Poe"
       },
       {
         "id": 4,
         "name": "Ptolemy's Geographia Cosmographia",
         "price": 1.05,
         "imgUrl": "/imgs/PGC.jpeg",
-        "Author": "Ptolemy"
+        "author": "Ptolemy"
       },
       {
         "id": 1,
         "name": "Revolution of Heavenly Spheres",
         "price": 10.99,
         "imgUrl": "/imgs/OTRHB.jpeg",
-        "Author": "Copernicus"
+        "author": "Copernicus"
       },
       {
         "id": 2,
         "name": "Tales of Beedle the Bard",
         "price": 1199,
         "imgUrl": "/imgs/TBTB.jpeg",
-        "Author": "J.K Rowling"
+        "author": "J.K Rowling"
       }
   ]
